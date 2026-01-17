@@ -1,0 +1,17 @@
+[
+{
+  "modid": "zvxchain",
+  "name": "ZVXchain",
+  "description": "Adds large chains to Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://mcreator.net",
+  "updateUrl": "",
+  "authorList": ["ZVX", "MCreator"],
+  "credits": "Created using mod maker MCreator",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
+

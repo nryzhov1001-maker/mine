@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "zvxchain:block/chain_2"
+    },
+    "facing=north": {
+      "model": "zvxchain:block/chain_2"
+    },
+    "facing=east": {
+      "model": "zvxchain:block/chain_2",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "zvxchain:block/chain_2",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "zvxchain:block/chain_2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "zvxchain:block/chain_2",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
+
